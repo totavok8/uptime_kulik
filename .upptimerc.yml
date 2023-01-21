@@ -4,12 +4,16 @@ repo: uptime_kulik
 
 sites:
   - name: Kulik House
-    url: http://cloud.kulik.uz
+    check: "tcp-ping"
+    url: cloud.kulik.uz
   - name: Plugin CDNKulik
+    check: "tcp-ping"
     url: http://cdn.kulik.uz
   - name: RU-Server
+    check: "tcp-ping"
     url: http://ruclast.kulik.uz
   - name: DE-Server
+    check: "tcp-ping"
     url: http://deuts-cdn.kulik.uz
 
 status-website:
