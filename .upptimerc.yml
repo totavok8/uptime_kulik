@@ -1,32 +1,28 @@
 # Change these first
-owner: chdtv # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: totavok8 # Your GitHub organization or username, where this repository lives
+repo: uptime_kulik # The name of this repository
 
 sites:
-  - name: Server 1
-    url: https://stream1.chd-servers.ml/
-  - name: Dynamic server (archive)
-    url: https://stream2-dynamic.chd-servers.ml/
-  - name: Server 2
-    url: https://stream2.chd-servers.ml/
-  - name: Server 3
-    url: https://stream3.chd-servers.ml/
-  - name: Server 4
-    url: https://stream4-ru.chd-servers.ml/
-  - name: Server 5
-    url: https://stream8.chd-servers.ml/
+  - name: Kulik House
+    url: http://cloud.kulik.uz/
+  - name: Plugin Kulik
+    url: http://cdn.kulik.uz/
+  - name: RU-Server
+    url: http://ruclast.kulik.uz/
+  - name: DE-Server
+    url: http://deuts-cdn.kulik.uz/
 
 status-website:
-  cname: status.chd-tv.tk
-  favicon: https://raw.githubusercontent.com/chdtv/uptime/master/logo.png
+  cname: uptime.kulik.uz
+  favicon: https://raw.githubusercontent.com/totavok8/uptime_kulik/master/logo.png
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/chdtv/uptime/master/logo.png
-  name: CHD-TV
-  introTitle: "**CHD-TV** status"
+  logoUrl: https://raw.githubusercontent.com/totavok8/uptime_kulik/master/logo.png
+  name: Kulik
+  introTitle: "**Kulik** status"
   introMessage: This is a status page which uses **real-time** data from our servers
   navbar:
     - title: Status
       href: /
 i18n:
-  footer: '[https://t.me/chdiptv](https://t.me/chdiptv)'
+  footer: '[https://t.me/lampa_channels](https://t.me/lampa_channels)'
   incidentViewOnGitHub: ''
