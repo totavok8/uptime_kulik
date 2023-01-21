@@ -14,9 +14,8 @@ sites:
 
 status-website:
   cname: uptime.kulik.uz
-  favicon: https://raw.githubusercontent.com/totavok8/uptime_kulik/master/logo.png
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/totavok8/uptime_kulik/master/logo.png
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Kulik
   introTitle: "**Kulik** status"
   introMessage: This is a status page which uses **real-time** data from our servers
