@@ -4,16 +4,19 @@ repo: uptime_kulik # The name of this repository
 
 sites:
   - name: Kulik House
-    url: http://cloud.kulik.uz/
+    check: "tcp-ping"
+    url: cloud.kulik.uz
   - name: Plugin Kulik
     url: http://cdn.kulik.uz/
   - name: RU-Server
-    url: http://ruclast.kulik.uz/
+    check: "tcp-ping"
+    url: ruclast.kulik.uz
   - name: DE-Server
-    url: http://deuts-cdn.kulik.uz/
+    check: "tcp-ping"
+    url: deuts-cdn.kulik.uz
 
 status-website:
-  cname: uptime.kulik.uz
+  #cname: uptime.kulik.uz
   # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Kulik
