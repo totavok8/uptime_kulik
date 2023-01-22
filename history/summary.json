@@ -1,22 +1,22 @@
 [
   {
     "name": "Kulik House",
-    "url": "http://cloud.kulik.uz/",
-    "icon": "https://icons.duckduckgo.com/ip3/cloud.kulik.uz.ico",
+    "url": "cloud.kulik.uz",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kulik-house",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-22": 108,
+      "2023-01-22": 364,
       "2023-01-21": 471
     }
   },
@@ -31,17 +31,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 491,
-    "timeWeek": 491,
-    "timeMonth": 491,
-    "timeYear": 491,
+    "time": 489,
+    "timeDay": 489,
+    "timeWeek": 489,
+    "timeMonth": 489,
+    "timeYear": 489,
     "dailyMinutesDown": {}
   },
   {
     "name": "RU-Server",
-    "url": "http://ruclast.kulik.uz/",
-    "icon": "https://icons.duckduckgo.com/ip3/ruclast.kulik.uz.ico",
+    "url": "ruclast.kulik.uz",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ru-server",
     "status": "down",
     "uptime": "0.00%",
@@ -55,14 +55,14 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-22": 108,
+      "2023-01-22": 364,
       "2023-01-21": 471
     }
   },
   {
     "name": "DE-Server",
-    "url": "http://deuts-cdn.kulik.uz/",
-    "icon": "https://icons.duckduckgo.com/ip3/deuts-cdn.kulik.uz.ico",
+    "url": "deuts-cdn.kulik.uz",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "de-server",
     "status": "down",
     "uptime": "0.00%",
@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-22": 108,
+      "2023-01-22": 364,
       "2023-01-21": 471
     }
   }
